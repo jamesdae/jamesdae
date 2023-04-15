@@ -2,8 +2,6 @@
 
 I'm a full-stack developer from Southern California, with a deep appreciation for the importance of user experience. As I continue to educate myself on both front-end and back-end technologies, I've found that deepening my understanding of one topic often leads to insights and discoveries in the other. I enjoy finding connections and filling in gaps of knowledge, whether I’m the one learning, or the one providing to the team. 
 
-[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdae&count_private=true&theme=algolia&show_icons=true&hide=stars,contribs)](https://github.com/jamesdae/github-readme-stats)
-
 ### What I Use:
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -12,6 +10,8 @@ I'm a full-stack developer from Southern California, with a deep appreciation fo
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdae&count_private=true&theme=algolia&show_icons=true&hide=stars,contribs)](https://github.com/jamesdae/github-readme-stats)
 
 ### Let's Connect!
 <a href="www.linkedin.com/in/jamesdaeyang">
