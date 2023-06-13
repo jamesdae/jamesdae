@@ -1,12 +1,16 @@
-### Hi there, I'm James 👋
+<h4 align="center">Hi there, I'm James 👋</h4>
 
 I'm a full-stack developer from Southern California, with a deep appreciation for the importance of user experience. As I continue to educate myself on both front-end and back-end technologies, I've found that deepening my understanding of one topic often leads to insights and discoveries in the other. I enjoy finding connections and filling in gaps of knowledge, whether I’m the one learning, or the one providing to the team. 
 
-- 🌱 I’m currently learning about UX and design thinking.
-- ⚡ Fun fact: There is no genre of music I dislike!
+<div align="center">
+  <p>🌱 I’m currently learning about UX and design thinking.</p>
+  <p>⚡ Fun fact: There is no genre of music I dislike!</p>
+</div>
+
+<br/>
 
 <div align="center">
-  <p>What I Use:</p>
+  <h4>What I Use:</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,8 +32,10 @@ I'm a full-stack developer from Southern California, with a deep appreciation fo
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=jamesdae&theme=darcula&hide_border=true&background=FFFFFF00">
 </div>
 
+<br/>
+
 <div align="center">
-  <p>Lets Connect!</p>
+  <h4>Lets Connect!</h4>
   <a href="www.linkedin.com/in/jamesdaeyang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
