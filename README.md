@@ -35,7 +35,7 @@ I'm a full-stack developer from Southern California, with a deep appreciation fo
 <br/>
 
 <div align="center">
-  <h4>Lets Connect!</h4>
+  <h4>Let's Connect!</h4>
   <a href="www.linkedin.com/in/jamesdaeyang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
